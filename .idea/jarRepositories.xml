@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="lgt-snapshots" />
+      <option name="name" value="Logalty Snapshots" />
+      <option name="url" value="https://platform.logalty.com/artifactory/libs-snapshot-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cefdigital" />
+      <option name="name" value="cefdigital" />
+      <option name="url" value="https://ec.europa.eu/cefdigital/artifact/content/repositories/esignaturedss/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="lgt-external-snapshots" />
+      <option name="name" value="for external snapshots" />
+      <option name="url" value="https://platform.logalty.com/artifactory/ext-snapshot-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="libs-snapshot-local" />
+      <option name="name" value="for external snapshots" />
+      <option name="url" value="http://host.docker.internal:8081/artifactory/libs-snapshot-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss" />
+      <option name="name" value="jboss" />
+      <option name="url" value="http://repository.jboss.org/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="confluent" />
+      <option name="name" value="confluent" />
+      <option name="url" value="https://packages.confluent.io/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="libs-release-local" />
+      <option name="name" value="for external snapshots" />
+      <option name="url" value="http://host.docker.internal:8081/artifactory/libs-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="lgt-internal-releases" />
+      <option name="name" value="Logalty Internal Releases" />
+      <option name="url" value="https://platform.logalty.com/artifactory/libs-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="lgt-external-releases" />
+      <option name="name" value="Logalty External Releases" />
+      <option name="url" value="https://platform.logalty.com/artifactory/ext-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="lgt-ext-integration" />
+      <option name="name" value="Logalty External Integration Releases" />
+      <option name="url" value="https://platform.logalty.com/artifactory/ext-integration" />
+    </remote-repository>
+  </component>
+</project>
